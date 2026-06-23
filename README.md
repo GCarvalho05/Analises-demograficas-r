@@ -7,6 +7,7 @@ Coletânea de projetos práticos desenvolvidos em R, com foco em métodos numér
 * **Atv2_Suavizacao_via_Lowess:** Tratamento de séries de dados e redução de ruídos utilizando regressão local (Lowess).
 * **Atv3_Padronizacao:** Técnicas de padronização (direta e indireta) para comparação justa de taxas e indicadores.
 * **Atv4_Piramedes_com_Censo:** Manipulação de bases de dados do Censo e construção de pirâmides etárias para análise estrutural de populações.
+* **Atv_Trabalho_Final:** Análise Comparativa de Crises Financeiras (1929 vs 2008)
 
 ## Tecnologias Utilizadas
 * Linguagem R
